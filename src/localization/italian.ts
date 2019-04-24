@@ -94,7 +94,7 @@ var italianTranslation = {
     showMore: "Per favore, per maggiori dettagli guardare la documentazione",
     assistantTitle: "Domande disponibili:",
     cellsEmptyRowsColumns: "Dovrebbe esserci almeno una colonna o riga",
-    propertyIsEmpty: "Per favore, inserire un valore per la propietà",
+    propertyIsEmpty: "Per favore, inserire un valore per la proprietà",
     value: "Valore",
     text: "Testo",
     columnEdit: "Modifica colonna: {0}",
@@ -199,7 +199,7 @@ var italianTranslation = {
       triggers: "Triggers",
       templateTitle: "Template titolo"
     },
-    editProperty: "Modifica propietà '{0}'",
+    editProperty: "Modifica proprietà '{0}'",
     items: "[ Elemento: {0} ]",
     enterNewValue: "Si prega di inserire il valore.",
     noquestions: "Non c'è alcun dubbio nel questionario.",
