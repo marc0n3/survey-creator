@@ -199,7 +199,7 @@ var italianTranslation = {
       triggers: "Triggers",
       templateTitle: "Template titolo"
     },
-    editProperty: "Modifca propietà '{0}'",
+    editProperty: "Modifica propietà '{0}'",
     items: "[ Elemento: {0} ]",
     enterNewValue: "Si prega di inserire il valore.",
     noquestions: "Non c'è alcun dubbio nel questionario.",
